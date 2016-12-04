@@ -4,3 +4,5 @@
 #include <stdlib.h>
 #include <unistd.h>
 #endif/*__INTERFAZ_H__*/
+
+void imprimir_tablero (char tablero[8][8]);
